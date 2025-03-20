@@ -16,8 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouladsaidkhadidja&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ouladsaidkhadidja&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
