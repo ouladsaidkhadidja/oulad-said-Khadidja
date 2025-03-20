@@ -15,9 +15,10 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <p>
+### 🚀 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ouladsaidkhadidja&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ouladsaidkhadidja&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" />
 </p>
