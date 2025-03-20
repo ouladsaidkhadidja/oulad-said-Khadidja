@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch: # Allows manual execution
+
+jobs:
+  update-readme:
+    name: Update GitHub Profile README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with GitHub Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_PROJECTS: "true"
