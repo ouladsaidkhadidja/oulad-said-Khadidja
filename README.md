@@ -1,6 +1,6 @@
 
 
-## 👋 Hey, khadididja here!
+## 👋 Hey, khadidja here!
 
 ### ⚙ Tech Stack
 <p align="left">
